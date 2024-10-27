@@ -2,3 +2,14 @@
 .detailPageSecondaryContainer {
   background-color: rgba(0,0,0,.2) !important;
 }
+
+.detailPageWrapperContainer {
+  margin-top: 30vh;
+}
+
+.cardOverlayButton,
+.cardOverlayButton-hover,
+.itemAction,
+.paper-icon-button-light {
+  margin: 1vh;
+}
