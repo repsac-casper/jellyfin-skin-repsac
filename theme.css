@@ -10,3 +10,7 @@
 .cardOverlayButton-br {
   margin: 1vh;
 }
+
+.skinHeader-withBackground {
+  background-color: rgb(32 32 32 / 70%);
+}
